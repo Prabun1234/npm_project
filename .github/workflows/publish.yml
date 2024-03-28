@@ -14,8 +14,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14' # Update to the desired Node.js version
-          registry-url: https://registry.npmjs.org
+          node-version: v21.3.0
       - name: Publish Package
         run: npm publish --access public
         working-directory: npm_project
