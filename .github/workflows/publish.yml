@@ -1,0 +1,25 @@
+name: npm_project
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14' # Update to the desired Node.js version
+          registry-url: https://registry.npmjs.org
+      - name: Publish Package
+        run: npm publish --access public
+        working-directory: my-package
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+
+          
