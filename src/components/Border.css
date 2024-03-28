@@ -1,0 +1,179 @@
+/* CSS Library for Border Styles */
+
+/* Dotted Border */
+.border-dotted {
+    border-style: dotted !important;
+}
+
+/* Dashed Border */
+.border-dashed {
+    border-style: dashed !important;
+}
+
+/* Hidden Border */
+.border-hidden {
+    border-style: hidden !important;
+}
+
+/* None Border */
+.border-none {
+    border-style: none !important;
+}
+
+/* Outset Border */
+.border-outset {
+    border-style: outset !important;
+}
+
+/* Inset Border */
+.border-inset {
+    border-style: inset !important;
+}
+
+/* Ridge Border */
+.border-ridge {
+    border-style: ridge !important;
+}
+
+/* Groove Border */
+.border-groove {
+    border-style: groove !important;
+}
+
+/* Double Border */
+.border-double {
+    border-style: double !important;
+}
+
+/* Solid Border */
+.border-solid {
+    border-style: solid !important;
+}
+
+
+/* CSS Library for Border Widths */
+
+/* Border Widths */
+.border-width-0 {
+    border-width: 0px !important;
+}
+
+.border-width-1 {
+    border-width: 1px !important;
+}
+
+.border-width-2 {
+    border-width: 2px !important;
+}
+
+.border-width-3 {
+    border-width: 3px !important;
+}
+
+.border-width-4 {
+    border-width: 4px !important;
+}
+
+.border-width-5 {
+    border-width: 5px !important;
+}
+
+/* Border Widths with Half Pixels */
+.border-width-half-1 {
+    border-width: 0.5px !important;
+}
+
+.border-width-half-2 {
+    border-width: 1.5px !important;
+}
+
+.border-width-half-3 {
+    border-width: 2.5px !important;
+}
+
+.border-width-half-4 {
+    border-width: 3.5px !important;
+}
+
+.border-width-half-5 {
+    border-width: 4.5px !important;
+}
+
+
+/* Shorthand for Border Property */
+.border {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.border-dotted {
+    border: dotted 1px;
+}
+
+.border-dashed {
+    border: dashed 1px;
+}
+
+.border-hidden {
+    border: hidden 1px;
+}
+
+.border-none {
+    border: none;
+}
+
+.border-outset {
+    border: outset 1px;
+}
+
+.border-inset {
+    border: inset 1px;
+}
+
+.border-ridge {
+    border: ridge 1px;
+}
+
+.border-groove {
+    border: groove 1px;
+}
+
+.border-double {
+    border: double 1px;
+}
+
+
+/* CSS Library for Rounded Borders */
+
+/* Fully Rounded Borders */
+.border-rounded {
+    border-radius: 50% !important;
+}
+
+/* Specific Corner Rounded Borders */
+.border-rounded-top-left {
+    border-top-left-radius: 5px !important;
+}
+
+.border-rounded-top-right {
+    border-top-right-radius: 5px !important;
+}
+
+.border-rounded-bottom-left {
+    border-bottom-left-radius: 5px !important;
+}
+
+.border-rounded-bottom-right {
+    border-bottom-right-radius: 5px !important;
+}
+
+/* Custom Rounded Borders */
+.border-rounded-custom {
+    border-radius: 10px !important;
+}
+
+/* Fully Rounded Borders with Half Percentage */
+.border-rounded-half {
+    border-radius: 25% !important;
+}
+                

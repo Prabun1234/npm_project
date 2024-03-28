@@ -1,0 +1,73 @@
+/* CSS Library for Bootstrap Colors */
+
+/* Primary Color */
+.bts-primary {
+    color: #007bff !important;
+}
+
+.bts-primary-bg {
+    background-color: #007bff !important;
+}
+
+/* Secondary Color */
+.bts-secondary {
+    color: #6c757d !important;
+}
+
+.bts-secondary-bg {
+    background-color: #6c757d !important;
+}
+
+/* Success Color */
+.bts-success {
+    color: #28a745 !important;
+}
+
+.bts-success-bg {
+    background-color: #28a745 !important;
+}
+
+/* Danger Color */
+.bts-danger {
+    color: #dc3545 !important;
+}
+
+.bts-danger-bg {
+    background-color: #dc3545 !important;
+}
+
+/* Warning Color */
+.bts-warning {
+    color: #ffc107 !important;
+}
+
+.bts-warning-bg {
+    background-color: #ffc107 !important;
+}
+
+/* Info Color */
+.bts-info {
+    color: #17a2b8 !important;
+}
+
+.bts-info-bg {
+    background-color: #17a2b8 !important;
+}
+
+/* Light Color */
+.bts-light {
+    color: #f8f9fa !important;
+}
+
+.bts-light-bg {
+    background-color: #f8f9fa !important;
+}
+
+/* Dark Color */
+.bts-dark {
+    color: #343a40 !important;
+}
+
+.bts-dark-bg {
+    background-color: #343a40 !important;
+}

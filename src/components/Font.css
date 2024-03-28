@@ -1,0 +1,147 @@
+/* CSS Library for Fonts */
+
+/* Arial Font */
+.fonts-arial {
+    font-family: Arial, sans-serif !important;
+}
+
+/* Helvetica Font */
+.fonts-helvetica {
+    font-family: Helvetica, sans-serif !important;
+}
+
+/* Times New Roman Font */
+.fonts-times-new-roman {
+    font-family: "Times New Roman", serif !important;
+}
+
+/* Courier Font */
+.fonts-courier {
+    font-family: Courier, monospace !important;
+}
+
+/* Verdana Font */
+.fonts-verdana {
+    font-family: Verdana, sans-serif !important;
+}
+
+/* Georgia Font */
+.fonts-georgia {
+    font-family: Georgia, serif !important;
+}
+
+/* Palatino Font */
+.fonts-palatino {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+}
+
+/* Impact Font */
+.fonts-impact {
+    font-family: Impact, sans-serif !important;
+}
+
+/* Comic Sans MS Font */
+.fonts-comic-sans-ms {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------------------------- */
+/* CSS Library for Web Safe Fonts */
+
+/* Arial */
+.fonts-arial {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+/* Helvetica */
+.fonts-helvetica {
+    font-family: Helvetica, Arial, sans-serif !important;
+}
+
+/* Times New Roman */
+.fonts-times-new-roman {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Courier New */
+.fonts-courier-new {
+    font-family: "Courier New", Courier, monospace !important;
+}
+
+/* Georgia */
+.fonts-georgia {
+    font-family: Georgia, serif !important;
+}
+
+/* Verdana */
+.fonts-verdana {
+    font-family: Verdana, Geneva, sans-serif !important;
+}
+
+/* Trebuchet MS */
+.fonts-trebuchet-ms {
+    font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+}
+
+/* Arial Black */
+.fonts-arial-black {
+    font-family: "Arial Black", Gadget, sans-serif !important;
+}
+
+/* Impact */
+.fonts-impact {
+    font-family: Impact, Charcoal, sans-serif !important;
+}
+
+/* Comic Sans MS */
+.fonts-comic-sans-ms {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------------ */
+/* CSS Font Styles */
+
+/* Font Size */
+.font-size-small {
+    font-size: 12px;
+}
+
+.font-size-medium {
+    font-size: 16px;
+}
+
+.font-size-large {
+    font-size: 20px;
+}
+
+/* Font Weight */
+.font-weight-normal {
+    font-weight: normal;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+/* Font Style */
+.font-style-normal {
+    font-style: normal;
+}
+
+.font-style-italic {
+    font-style: italic;
+}
+
+/* Font Family */
+.font-family-arial {
+    font-family: Arial, sans-serif;
+}
+
+.font-family-times-new-roman {
+    font-family: "Times New Roman", serif;
+}
+
+.font-family-verdana {
+    font-family: Verdana, sans-serif;
+}
+/* -------------------------------------------------------------------------------------------------------------- */

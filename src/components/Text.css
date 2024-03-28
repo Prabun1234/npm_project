@@ -1,0 +1,222 @@
+/* CSS Text Styles */
+
+/* Text Color */
+.txt-color-black {
+    color: black;
+}
+
+.txt-color-white {
+    color: white;
+}
+
+.txt-color-red {
+    color: red;
+}
+
+/* Text Alignment */
+.txt-left {
+    text-align: left;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+/* Text Decoration */
+.txt-underline {
+    text-decoration: underline;
+}
+
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.txt-overline {
+    text-decoration: overline;
+}
+
+/* Text Transformation */
+.txt-uppercase {
+    text-transform: uppercase;
+}
+
+.txt-lowercase {
+    text-transform: lowercase;
+}
+
+.txt-capitalize {
+    text-transform: capitalize;
+}
+
+/* Text Shadow */
+.txt-shadow {
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+/* Text Size */
+.txt-small {
+    font-size: small;
+}
+
+.txt-medium {
+    font-size: medium;
+}
+
+.txt-large {
+    font-size: large;
+}
+
+
+/* Text Alignment */
+.txt-left {
+    text-align: left;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+.txt-justify {
+    text-align: justify;
+}
+
+
+/* Text Decoration */
+.txt-underline {
+    text-decoration: underline;
+}
+
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.txt-overline {
+    text-decoration: overline;
+}
+
+.txt-none {
+    text-decoration: none;
+}
+
+/* Text Transformation */
+.txt-uppercase {
+    text-transform: uppercase;
+}
+
+.txt-lowercase {
+    text-transform: lowercase;
+}
+
+.txt-capitalize {
+    text-transform: capitalize;
+}
+
+.txt-none-transform {
+    text-transform: none;
+}
+
+/* Text Spacing */
+.txt-letter-spacing {
+    letter-spacing: 2px; 
+}
+
+.txt-word-spacing {
+    word-spacing: 4px; 
+}
+
+.txt-line-height {
+    line-height: 1.5; 
+}
+
+.txt-text-indent {
+    text-indent: 20px; 
+}
+
+/* Text Shadow */
+.txt-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adjust values as needed */
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------ */
+
+/* Float */
+.float-left {
+    float: left !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------ */
+
+
+/* Clear */
+.clear-none {
+    clear: none;
+}
+
+.clear-left {
+    clear: left;
+}
+
+.clear-right {
+    clear: right;
+}
+
+.clear-both {
+    clear: both;
+}
+
+.clear-inherit {
+    clear: inherit;
+}
+
+/* Clearfix */
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* -------------------------------------------------------------------------------------------------------------- */
+.container {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 300px; /* Set a height for the container */
+}
+
+.item {
+    width: 200px; /* Set a width for the item */
+    height: 100px; /* Set a height for the item */
+    background-color: #f0f0f0; /* Background color */
+    text-align: center; /* Center text horizontally */
+    line-height: 100px; /* Center text vertically */
+}
+
+
+/* --------------------------CSS Opacity / Transparency------------------------------------- */
+
+.transparent {
+    opacity: 0.5; /* Make the element 50% transparent */
+}
+
+
+.background-transparent {
+    background-color: rgba(255, 0, 0, 0.5); /* Red color with 50% transparency */
+}
